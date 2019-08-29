@@ -18,7 +18,7 @@
 ![image](/JavaSE思维导图图片/Java修饰符-5.png)
 #
 ## Java流程控制
-![image](/JavaSe思维导图图片/Java流程控制-6.png)
+![image](/JavaSE思维导图图片/Java流程控制-6.png)
 #
 ## Java数组和方法
 ![image](/JavaSE思维导图图片/Java数组和方法-7.png)
