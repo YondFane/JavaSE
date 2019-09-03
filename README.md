@@ -38,3 +38,6 @@
 ## 十二、Java常用工具类
 ![image](/JavaSE思维导图图片/Java常用工具类-12.png)
 #
+## 十三、Java集合
+![image](/JavaSE思维导图图片/Java集合-13.png)
+#
