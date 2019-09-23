@@ -56,3 +56,6 @@
 ## 十八、Java数据库连接JDBC
 ![image](/JavaSE思维导图图片/Java数据库连接JDBC-18.png)
 #
+## 十九、Java类的加载机制
+![image](/JavaSE思维导图图片/Java类的加载机制-19.png)
+#
