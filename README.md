@@ -59,3 +59,6 @@
 ## 十九、Java类的加载机制
 ![image](/JavaSE思维导图图片/Java类的加载机制-19.png)
 #
+## 二十、Java虚拟机内存结构
+![image](/JavaSE思维导图图片/Java虚拟机内存结构-20.png)
+#
