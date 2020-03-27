@@ -62,3 +62,6 @@
 ## 二十、Java虚拟机内存结构
 ![image](/JavaSE思维导图图片/Java虚拟机内存结构-20.png)
 #
+## 二十一、Java内部类
+![image](/JavaSE思维导图图片/Java内部类-21.png)
+#
