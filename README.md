@@ -57,7 +57,7 @@
 ![image](/JavaSE思维导图图片/Java数据库连接JDBC-18.png)
 #
 ## 十九、Java类的加载机制
-![image](/JavaSE思维导图图片/Java类的加载机制-19.png)
+![image](/JavaSE思维导图图片/Java类加载机制-19.png)
 #
 ## 二十、Java虚拟机内存结构
 ![image](/JavaSE思维导图图片/Java虚拟机内存结构-20.png)
